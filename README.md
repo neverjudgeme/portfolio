@@ -1,2 +1,2 @@
-# resume
-My resume for complete development course
+# portfolio
+My potfolio for complete development course
